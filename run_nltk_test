@@ -1,0 +1,13 @@
+executable = nltk_test.py
+
+universe = vanilla
+output = nltk_test.out
+error = nltk_test.error
+log = nltk_test.log
+
+getenv = True
+
+accounting_group = group_babar
+accounting_group_user = yunxuanli
+
+queue
